@@ -37,8 +37,8 @@ A comprehensive JavaFX desktop application designed to streamline blood bank ope
 
 ## 📸 Screenshots
 
-*(You can upload screenshots to an 'images' folder and link them here later!)*
 
 ---
 **Author:** Imaad Fazal
+
 **Course:** Software Design and Analysis [2025]
